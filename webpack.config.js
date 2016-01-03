@@ -38,7 +38,7 @@ const common = {
   plugins: [
   new HtmlwebpackPlugin({
     template: 'node_modules/html-webpack-template/index.html',
-    title: 'Valit',
+    title: 'Your App',
     appMountId: 'app'
   })
   ]
